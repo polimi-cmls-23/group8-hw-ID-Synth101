@@ -14,7 +14,7 @@
 
 
 
-b.free;
+
 //OSC MESSAGES
 (
 var recAddr=NetAddr("127.0.0.1",57120);
