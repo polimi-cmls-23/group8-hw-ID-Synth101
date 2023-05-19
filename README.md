@@ -9,10 +9,10 @@ Group 08 repository for the ID homework of CMLS 2023.
   and at last runnnig the processing "HeartbeatSoundGenerator.pde" file.
   You could now see a full screen GUI identical to the one displayed in the image below, at the bottom of there are three main knob: one to choose the song you want to play, one to set the overall reverb(still to implement) and one to control the overall volume.
   You can choose the mode that you prefer by clicking on the corresponding text.
-  In the following lines we are goin to breafly explain the goal of each mode.
+  In the following lines we are going to breafly explain the features of each mode.
 </p>
  
- ![GUI]! (https://github.com/polimi-cmls-23/group8-hw-ID-Synth101/assets/127778048/793a913f-2cf8-4e67-9622-3f198b272533)
+ ![GUI](https://github.com/polimi-cmls-23/group8-hw-ID-Synth101/assets/127778048/793a913f-2cf8-4e67-9622-3f198b272533)
 
     
 <div>
