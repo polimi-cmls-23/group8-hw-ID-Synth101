@@ -115,7 +115,7 @@ void setup() {
   
   //Initializing arduino Serial
 
-  String portName = Serial.list()[2];
+  String portName = Serial.list()[0];
   myPort = new Serial(this, portName, 9600);
 
   //KNOBS STUFF:
