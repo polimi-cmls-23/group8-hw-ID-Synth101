@@ -11,28 +11,28 @@
   In the following lines we are going to briefly explain the characteristics of each mode.
 </p>
  
- ![GUI](https://github.com/MarcoPelazza/Synth102HW3/assets/127769671/5ab5733b-0614-49a5-93ce-1b012dede311)
+ ![GUI](https://github.com/polimi-cmls-23/group8-hw-ID-Synth101/assets/127778048/62fad9c9-29c3-4d80-a0d0-8fa0c48f2421)
 
     
-<div>
+<ul>
   <h2>Mode 1: band-pass filter</h2>
-  <div>Mouse x: controls the pan </div>
-  <div>Mouse y: controls the amplitude of the band pass filter</div>
-  <div>Heart rate: controls the central frequency of the band pass filter</div>
+  <li>Mouse x: controls the pan </li>
+  <li>Mouse y: controls the amplitude of the band pass filter</li>
+  <li>Heart rate: controls the central frequency of the band pass filter</li>
 
   <h2>Mode 2: random notes</h2>
-  <div>Mouse x: controls the pan </div>
-  <div>Mouse y: controls the distance between the highest and the lowest generated note</div>
-  <div>Heart rate: controls the frequency of the central note</div>
+  <li>Mouse x: controls the pan </li>
+  <li>Mouse y: controls the distance between the highest and the lowest generated note</li>
+  <li>Heart rate: controls the frequency of the central note</li>
   
   <h2>Mode 3: song accelerator</h2>
-  <div>Mouse x: controls the pan </div>
-  <div>Mouse y: controls the speed of the song</div>
-  <div>Heart rate: controls the delay applied to the song</div>
+  <li>Mouse x: controls the pan </li>
+  <li>Mouse y: controls the speed of the song</li>
+  <li>Heart rate: controls the delay applied to the song</li>
   
   <h2>Mode 4: arpeggiator</h2>
-  <div>Mouse x: controls the pan </div>
-  <div>Mouse y: controls the frequency of the tonic note</div>
-  <div>Heart rate: controls the time rate of the notes</div>
-</div>
+  <li>Mouse x: controls the pan </li>
+  <li>Mouse y: controls the frequency of the tonic note</li>
+  <li>Heart rate: controls the time rate of the notes</li>
+</ul>
 
